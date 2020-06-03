@@ -1,3 +1,4 @@
+//WIP
 var assert = require('chai').assert;
 var encoder = require('../src/Encoder');
 
