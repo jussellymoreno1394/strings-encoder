@@ -2,6 +2,7 @@
 
 ### String encoder according to the entered option.
 
+
 **Available options 💡:**
 
 | `Option`        | `Encode to`       
